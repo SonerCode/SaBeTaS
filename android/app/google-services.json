@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650302404593",
+    "project_id": "sabetas-3105",
+    "storage_bucket": "sabetas-3105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650302404593:android:e6ba5963ac4edf6aec7650",
+        "android_client_info": {
+          "package_name": "com.example.sabetasadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPefvEHcP98W5foes4jX64lF3oEysHt_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650302404593:android:120ca2a519bea6beec7650",
+        "android_client_info": {
+          "package_name": "com.sabetas.grad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPefvEHcP98W5foes4jX64lF3oEysHt_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
